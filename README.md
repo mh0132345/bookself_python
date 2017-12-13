@@ -1,7 +1,7 @@
-# A bookself program to save books'data
+# A bookshelf program to save books' data
 
 Using module: tkinter, sqlite3
 
-Run the program: `python .\bookself.py`
+Run the program: `python .\bookshelf.py`
 
-Build program with PyInstaller: `pyinstaller --onefile --windowed .\bookself.py`
+Build program with PyInstaller: `pyinstaller --onefile --windowed .\bookshelf.py`
